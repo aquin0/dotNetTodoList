@@ -9,9 +9,18 @@
     <PackageJsonScriptsBuild Condition="$(PackageJsonScriptsBuild) == ''">tsc -b &amp;&amp; vite build</PackageJsonScriptsBuild>
     <PackageJsonScriptsLint Condition="$(PackageJsonScriptsLint) == ''">eslint .</PackageJsonScriptsLint>
     <PackageJsonScriptsPreview Condition="$(PackageJsonScriptsPreview) == ''">vite preview</PackageJsonScriptsPreview>
+    <PackageJsonDependenciesEmotionReact Condition="$(PackageJsonDependenciesEmotionReact) == ''">^11.14.0</PackageJsonDependenciesEmotionReact>
+    <PackageJsonDependenciesEmotionStyled Condition="$(PackageJsonDependenciesEmotionStyled) == ''">^11.14.1</PackageJsonDependenciesEmotionStyled>
+    <PackageJsonDependenciesHookformResolvers Condition="$(PackageJsonDependenciesHookformResolvers) == ''">^5.2.2</PackageJsonDependenciesHookformResolvers>
+    <PackageJsonDependenciesMuiMaterial Condition="$(PackageJsonDependenciesMuiMaterial) == ''">^7.3.2</PackageJsonDependenciesMuiMaterial>
+    <PackageJsonDependenciesTanstackReactQuery Condition="$(PackageJsonDependenciesTanstackReactQuery) == ''">^5.90.1</PackageJsonDependenciesTanstackReactQuery>
+    <PackageJsonDependenciesAxios Condition="$(PackageJsonDependenciesAxios) == ''">^1.12.2</PackageJsonDependenciesAxios>
     <PackageJsonDependenciesReact Condition="$(PackageJsonDependenciesReact) == ''">^19.1.1</PackageJsonDependenciesReact>
     <PackageJsonDependenciesReactDom Condition="$(PackageJsonDependenciesReactDom) == ''">^19.1.1</PackageJsonDependenciesReactDom>
+    <PackageJsonDependenciesReactHookForm Condition="$(PackageJsonDependenciesReactHookForm) == ''">^7.63.0</PackageJsonDependenciesReactHookForm>
     <PackageJsonDependenciesReactRouterDom Condition="$(PackageJsonDependenciesReactRouterDom) == ''">^7.9.1</PackageJsonDependenciesReactRouterDom>
+    <PackageJsonDependenciesZod Condition="$(PackageJsonDependenciesZod) == ''">^4.1.11</PackageJsonDependenciesZod>
+    <PackageJsonDependenciesZustand Condition="$(PackageJsonDependenciesZustand) == ''">^5.0.8</PackageJsonDependenciesZustand>
     <PackageJsonDevdependenciesEslintJs Condition="$(PackageJsonDevdependenciesEslintJs) == ''">^9.33.0</PackageJsonDevdependenciesEslintJs>
     <PackageJsonDevdependenciesTypesNode Condition="$(PackageJsonDevdependenciesTypesNode) == ''">^22</PackageJsonDevdependenciesTypesNode>
     <PackageJsonDevdependenciesTypesReact Condition="$(PackageJsonDevdependenciesTypesReact) == ''">^19.1.13</PackageJsonDevdependenciesTypesReact>

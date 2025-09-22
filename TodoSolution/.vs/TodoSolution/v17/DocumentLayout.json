@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\api\\axios.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\api\\axios.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\store\\auth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\store\\auth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\api\\axios.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\api\\axios.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,11 +106,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\package.json",
+              "RelativeDocumentMoniker": "todosolution.client\\package.json",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\package.json",
+              "RelativeToolTip": "todosolution.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T16:40:07.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Register.tsx",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\pages\\Register.tsx",
               "RelativeDocumentMoniker": "todosolution.client\\src\\pages\\Register.tsx",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Home.tsx",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\Home.tsx",
               "RelativeDocumentMoniker": "todosolution.client\\src\\Home.tsx",
@@ -138,13 +155,14 @@
               "RelativeDocumentMoniker": "todosolution.client\\index.html",
               "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\index.html",
               "RelativeToolTip": "todosolution.client\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-09-22T15:40:39.386Z"
+              "WhenOpened": "2025-09-22T15:40:39.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "tsconfig.json",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\tsconfig.json",
               "RelativeDocumentMoniker": "todosolution.client\\tsconfig.json",
@@ -162,27 +180,27 @@
               "RelativeDocumentMoniker": "todosolution.client\\src\\App.tsx",
               "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\App.tsx",
               "RelativeToolTip": "todosolution.client\\src\\App.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-09-22T15:21:20.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "main.tsx",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\main.tsx",
               "RelativeDocumentMoniker": "todosolution.client\\src\\main.tsx",
               "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\main.tsx",
               "RelativeToolTip": "todosolution.client\\src\\main.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-09-22T15:20:48.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "tasks.ts",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\api\\tasks.ts",
               "RelativeDocumentMoniker": "todosolution.client\\src\\api\\tasks.ts",
@@ -194,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "auth.ts",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\api\\auth.ts",
               "RelativeDocumentMoniker": "todosolution.client\\src\\api\\auth.ts",
@@ -206,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "auth.ts",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\store\\auth.ts",
               "RelativeDocumentMoniker": "todosolution.client\\src\\store\\auth.ts",
@@ -218,19 +236,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "axios.ts",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\api\\axios.ts",
               "RelativeDocumentMoniker": "todosolution.client\\src\\api\\axios.ts",
               "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\api\\axios.ts",
               "RelativeToolTip": "todosolution.client\\src\\api\\axios.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-09-22T15:18:23.694Z"
+              "WhenOpened": "2025-09-22T15:18:23.694Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "20250922142612_Initial.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Migrations\\20250922142612_Initial.cs",
               "RelativeDocumentMoniker": "TodoSolution.Server\\Migrations\\20250922142612_Initial.cs",
@@ -242,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "TodoSolution.Server\\Controllers\\TasksController.cs",
@@ -254,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "TodoSolution.Server\\Controllers\\AuthController.cs",
@@ -266,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "TodoSolution.Server\\Data\\AppDbContext.cs",
@@ -278,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Program.cs",
               "RelativeDocumentMoniker": "TodoSolution.Server\\Program.cs",
@@ -290,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "TaskCreateValidator.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Validators\\TaskCreateValidator.cs",
               "RelativeDocumentMoniker": "TodoSolution.Server\\Validators\\TaskCreateValidator.cs",
@@ -302,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "RegisterDtoValidator.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Validators\\RegisterDtoValidator.cs",
               "RelativeDocumentMoniker": "TodoSolution.Server\\Validators\\RegisterDtoValidator.cs",
@@ -314,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AuthDtos.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\DTOs\\AuthDtos.cs",
               "RelativeDocumentMoniker": "TodoSolution.Server\\DTOs\\AuthDtos.cs",
@@ -326,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\appsettings.json",
               "RelativeDocumentMoniker": "TodoSolution.Server\\appsettings.json",
@@ -338,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "TaskDtos.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\DTOs\\TaskDtos.cs",
               "RelativeDocumentMoniker": "TodoSolution.Server\\DTOs\\TaskDtos.cs",
@@ -350,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "TodoTask.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Entities\\TodoTask.cs",
               "RelativeDocumentMoniker": "TodoSolution.Server\\Entities\\TodoTask.cs",
@@ -362,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "MappingProfile.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Profiles\\MappingProfile.cs",
               "RelativeDocumentMoniker": "TodoSolution.Server\\Profiles\\MappingProfile.cs",
@@ -374,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Entities\\User.cs",
               "RelativeDocumentMoniker": "TodoSolution.Server\\Entities\\User.cs",
