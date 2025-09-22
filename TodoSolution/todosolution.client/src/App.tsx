@@ -31,15 +31,36 @@ function Login() {
 }
 
 function Register() {
-    const [u, setU] = useState(""); const [p, setP] = useState("");
+    const [u, setU] = useState("");
+    const [p, setP] = useState("");
+    const [loading, setLoading] = useState(false);
+    const [err, setErr] = useState<string | null>(null);
     const nav = useNavigate();
-    const doReg = async () => { await register(u, p); nav("/login"); };
+
+    const doReg = async () => {
+        setErr(null);
+        if (!u || !p) { setErr("Preencha usuário e senha."); return; }
+        setLoading(true);
+        try {
+            await register(u, p);
+            nav("/login");
+        } catch (e: any) {
+            const apiMsg = e?.response?.data?.message;
+            setErr(apiMsg || "Falha ao registrar. Tente outro usuário ou verifique a API.");
+        } finally {
+            setLoading(false);
+        }
+    };
+
     return (
         <Container maxWidth="xs" sx={{ mt: 8 }}>
             <Typography variant="h5" sx={{ mb: 2 }}>Registro</Typography>
             <TextField fullWidth label="Username" value={u} onChange={e => setU(e.target.value)} sx={{ mb: 2 }} />
             <TextField fullWidth type="password" label="Password" value={p} onChange={e => setP(e.target.value)} sx={{ mb: 2 }} />
-            <Button variant="contained" onClick={doReg} fullWidth>Criar conta</Button>
+            <Button variant="contained" onClick={doReg} fullWidth disabled={loading}>
+                {loading ? "Criando..." : "Criar conta"}
+            </Button>
+            {err && <Typography color="error" sx={{ mt: 1 }}>{err}</Typography>}
         </Container>
     );
 }
