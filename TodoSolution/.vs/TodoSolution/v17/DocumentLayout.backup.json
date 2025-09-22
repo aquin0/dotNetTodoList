@@ -1,0 +1,389 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\app.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\pages\\register.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\home.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\api\\tasks.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\api\\tasks.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\api\\auth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\api\\auth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\store\\auth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\store\\auth.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.client\\src\\api\\axios.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5841243D-E2DF-188E-097B-930654CB6CC5}|todosolution.client\\todosolution.client.esproj|solutionrelative:todosolution.client\\src\\api\\axios.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\validators\\taskcreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\validators\\taskcreatevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\validators\\registerdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\entities\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\entities\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\profiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\dtos\\taskdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\dtos\\taskdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|c:\\users\\danie\\desktop\\projetotodolist\\dotnettodolist\\todosolution\\todosolution.server\\migrations\\20250922142612_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44035840-650D-4471-ABAD-CCEC2CE43DB0}|TodoSolution.Server\\TodoSolution.Server.csproj|solutionrelative:todosolution.server\\migrations\\20250922142612_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.tsx",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\pages\\Register.tsx",
+              "RelativeDocumentMoniker": "todosolution.client\\src\\pages\\Register.tsx",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\pages\\Register.tsx",
+              "RelativeToolTip": "todosolution.client\\src\\pages\\Register.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-22T15:43:36.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Home.tsx",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\Home.tsx",
+              "RelativeDocumentMoniker": "todosolution.client\\src\\Home.tsx",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\Home.tsx",
+              "RelativeToolTip": "todosolution.client\\src\\Home.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-22T15:42:34.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\index.html",
+              "RelativeDocumentMoniker": "todosolution.client\\index.html",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\index.html",
+              "RelativeToolTip": "todosolution.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-09-22T15:40:39.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\tsconfig.json",
+              "RelativeDocumentMoniker": "todosolution.client\\tsconfig.json",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\tsconfig.json",
+              "RelativeToolTip": "todosolution.client\\tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T15:32:21.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "todosolution.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\App.tsx",
+              "RelativeToolTip": "todosolution.client\\src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-22T15:21:20.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\main.tsx",
+              "RelativeDocumentMoniker": "todosolution.client\\src\\main.tsx",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\main.tsx",
+              "RelativeToolTip": "todosolution.client\\src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-22T15:20:48.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "tasks.ts",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\api\\tasks.ts",
+              "RelativeDocumentMoniker": "todosolution.client\\src\\api\\tasks.ts",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\api\\tasks.ts",
+              "RelativeToolTip": "todosolution.client\\src\\api\\tasks.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-22T15:20:32.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "auth.ts",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\api\\auth.ts",
+              "RelativeDocumentMoniker": "todosolution.client\\src\\api\\auth.ts",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\api\\auth.ts",
+              "RelativeToolTip": "todosolution.client\\src\\api\\auth.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-22T15:20:07.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "auth.ts",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\store\\auth.ts",
+              "RelativeDocumentMoniker": "todosolution.client\\src\\store\\auth.ts",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\store\\auth.ts",
+              "RelativeToolTip": "todosolution.client\\src\\store\\auth.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-22T15:19:19.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "axios.ts",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\api\\axios.ts",
+              "RelativeDocumentMoniker": "todosolution.client\\src\\api\\axios.ts",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\todosolution.client\\src\\api\\axios.ts",
+              "RelativeToolTip": "todosolution.client\\src\\api\\axios.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-09-22T15:18:23.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250922142612_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Migrations\\20250922142612_Initial.cs",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\Migrations\\20250922142612_Initial.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Migrations\\20250922142612_Initial.cs",
+              "RelativeToolTip": "TodoSolution.Server\\Migrations\\20250922142612_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T14:26:12.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "TodoSolution.Server\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:34:54.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TodoSolution.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:34:08.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TodoSolution.Server\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:33:06.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Program.cs",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Program.cs",
+              "RelativeToolTip": "TodoSolution.Server\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:21:55.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TaskCreateValidator.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Validators\\TaskCreateValidator.cs",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\Validators\\TaskCreateValidator.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Validators\\TaskCreateValidator.cs",
+              "RelativeToolTip": "TodoSolution.Server\\Validators\\TaskCreateValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:21:27.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Validators\\RegisterDtoValidator.cs",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\Validators\\RegisterDtoValidator.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Validators\\RegisterDtoValidator.cs",
+              "RelativeToolTip": "TodoSolution.Server\\Validators\\RegisterDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T13:20:45.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\DTOs\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "TodoSolution.Server\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:20:56.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\appsettings.json",
+              "RelativeToolTip": "TodoSolution.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-15T21:29:21.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TaskDtos.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\DTOs\\TaskDtos.cs",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\DTOs\\TaskDtos.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\DTOs\\TaskDtos.cs",
+              "RelativeToolTip": "TodoSolution.Server\\DTOs\\TaskDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:21:59.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TodoTask.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Entities\\TodoTask.cs",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\Entities\\TodoTask.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Entities\\TodoTask.cs",
+              "RelativeToolTip": "TodoSolution.Server\\Entities\\TodoTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:32:34.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Profiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\Profiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Profiles\\MappingProfile.cs",
+              "RelativeToolTip": "TodoSolution.Server\\Profiles\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T18:22:31.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "TodoSolution.Server\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\danie\\Desktop\\projetoToDoList\\dotNetTodoList\\TodoSolution\\TodoSolution.Server\\Entities\\User.cs",
+              "RelativeToolTip": "TodoSolution.Server\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T21:31:18.431Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
